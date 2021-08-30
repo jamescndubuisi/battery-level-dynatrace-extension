@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "group_name": "Battery Level",
+      "processes": [
+        {
+          "process_name": "python3.8",
+          "properties": {
+            "CmdLine": "-m plugin_sdk.demo_app",
+            "WorkDir": "/home/demo",
+            "ListeningPorts": "8769"
+          }
+        }
+      ],
+      "properties": {"Technologies": "PYTHON"}
+    }
+  ]
+}
